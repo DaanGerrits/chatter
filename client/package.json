@@ -1,0 +1,9 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "Realtime chat application with NodeJS, Express, Sockets.io, TypeScript and Mithril",
+  "main": "index.js",
+  "repository": "https://github.com/DaanGerrits/chatter.git",
+  "author": "Daan Gerrits <info@daangerrits.nl>",
+  "license": "MIT"
+}
