@@ -2,7 +2,9 @@
 This is a realtime cross platform chat application prototype.
 
 ### Tools
-We use TypeScript as primary language. The back-end is build in NodeJS. On the client side we use Mithril.
+On the back-end we are running a NodeJS width Express app. The client app will be build with Mithril. The code for both the server and client apps will be written in TypeScript.
+
+For realtime communication between multiple client apps and the server Socket.io is implemented.
 
 ### Application Structure
 ```
