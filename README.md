@@ -2,32 +2,7 @@
 This is a realtime cross platform chat application prototype.
 
 # Tools
-The back-end is build in NodeJS and written in TypeScript
-The client app is build with Mithril and TypeScript
-The app is bundled with Webpack
+We use TypeScript as primary language. The back-end is build in NodeJS. On the client side we use Mithril.
 
 # Application Structure
-Chatapp/
-|-  Server/
-    |-  src/
-        |-  models
-            |-  message.model.ts
-            |-  user.model.ts
-        |-  index.ts
-        |-  server.ts
-    |-  package.json
-    |-  tsconfig.json
-    |-  webpack.config.json
-|-  Client/
-    |-  src/
-            |- chat/
-                |-  model/
-                    |-  user.ts
-                    |-  message.ts
-                |-  services/
-                    |-  socket.service.ts
-            |- app.module.ts
-        |-  index.ts
-    |-  package.json
-    |-  tsconfig.json
-    |-  webpack.config.json
+<script src="https://gist.github.com/DaanGerrits/2d9446b6f46062fc03ed1d70323ba517.js"></script>
