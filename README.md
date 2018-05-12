@@ -1,5 +1,5 @@
 # Chatter
-This is a realtime cross platform chat application prototype.
+This is a realtime cross platform chat application prototype. While there are already multiple great chat apps like WhatsApp and Telegram, I believe there is always a place for new approaches.
 
 ### Tools
 On the back-end we are running a NodeJS width Express app. The client app will be build with Mithril. The code for both the server and client apps will be written in TypeScript.
